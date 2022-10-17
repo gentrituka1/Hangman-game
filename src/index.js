@@ -7,7 +7,7 @@ const words = [
   'javascript',
   'project',
   'random',
-  'gentrit'
+  'erion'
 ]
 
 
@@ -168,7 +168,7 @@ function createSomeUsefulText(){
 
   let projectDescriptionText = document.createElement('h3')
   projectDescriptionText.textContent = `A game where you try to guess the word before you run out of guesses.`
-
+          
   let projectDescriptionText2 = document.createElement('h2')
   projectDescriptionText2.textContent = `Click down below to get started!`
 
